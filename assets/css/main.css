@@ -1,0 +1,61 @@
+.btn {
+    border: 1px solid #888;
+}
+.btn:hover {
+    cursor: pointer;
+}
+
+.btn-info {
+    background: #7325b8 !important;
+    border: 3px solid #480f7a;
+}
+
+.btn-info:hover {
+    background: #601e9c !important;
+    border-color: #480f7a;
+}
+
+.btn-success {
+    border: 3px solid #14752a;
+}
+
+.btn-success:hover {
+    border-color: #14752a;
+}
+
+.badge {
+    color: white !important;
+    font-weight: bold;
+}
+
+.badge-post {
+    background: #49cc90 !important;
+}
+
+.badge-put {
+    background: #fca130 !important;
+}
+
+.badge-patch {
+    background: #50e3c2 !important;
+}
+
+.endpoint-link:hover{
+    text-decoration: none !important;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.fa-bug {
+    color: #7325b8;
+}
+
+#notify-here {
+    height: 350px;
+    border: 1px solid #b9bbbe;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 12px !important;
+    margin-bottom: 20px;
+    background: white !important;
+}
